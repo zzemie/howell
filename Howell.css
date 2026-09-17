@@ -1,0 +1,46 @@
+ /* ── Linked Stylesheets ──
+   /assets/application-834bda1be923cc7343d0c3de5f1d433b71d2f21312e31e9cb13673b41898ebe1.css
+   /uploaded/themes/mod-east-hartford/main.css?1786355883
+*/
+
+:root {
+				--primary-color-h: 208.85;
+				--primary-color-s: 70.81%;
+				--primary-color-l: 36.27%;
+				--primary-color-hsl: var(--primary-color-h), var(--primary-color-s), var(--primary-color-l);
+				--primary-color: #1b5f9e;
+				--secondary-color-h: 180.0;
+				--secondary-color-s: 1.20%;
+				--secondary-color-l: 50.78%;
+				--secondary-color-hsl: var(--secondary-color-h), var(--secondary-color-s), var(--secondary-color-l);
+				--secondary-color: #808383;
+				--main-font: 'Lato';
+				--accent-font: 'Merriweather';
+			}
+
+/* ── Next Inline Block ── */
+
+:root {
+						--font-primary: 'Lato';
+						--font-secondary: 'Merriweather';
+				}
+
+/* ── Next Inline Block ── */
+
+:root {
+    --display-accred-panel: none;
+    --has-sticky-header: false;
+    --is-district-site: false;
+    --header-logo-enabled: true;
+    --footer-logo-enabled: true;
+    --header-logo-bg: false;
+    --footer-logo-bg: false;
+    --header-logo-height-class: height-medium;
+    --footer-logo-height-class: height-medium;
+    --show-header-location-name: false;
+    --show-header-location-title: false;
+    --show-header-subtitle: false;
+    --show-header-motto: false;
+    --show-footer-title: false;
+    --weglot-display-position: default;
+  }
